@@ -1,0 +1,10 @@
+# useless
+.idea
+*.pyc
+.cache/
+
+# dist package
+dist
+*.gz
+*.egg
+*.egg-info
